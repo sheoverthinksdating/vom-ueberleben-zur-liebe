@@ -7,7 +7,7 @@ die im Dating ständig zu viel fühlen,
 zu viel analysieren
 und sich dabei selbst verlieren.
 
----
+
 
 ## 💛 Kostenloses Ebook
 
@@ -16,7 +16,7 @@ die du wirklich willst.
 
 [💛 Kostenlos herunterladen](kostenloses-ebook.qmd){.btn .btn-primary}
 
----
+
 
 ## ✨ Mini Guide
 
@@ -24,7 +24,7 @@ Wenn er plötzlich still wird.
 
 [✨ Zum Mini Guide](mini-guide.qmd){.btn .btn-primary}
 
----
+
 
 ## 💭 Bald verfügbar
 

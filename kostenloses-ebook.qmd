@@ -2,9 +2,9 @@
 title: ""
 ---
 
-## ![](Freebie Ebook Vorschau.png){width="500"}Warum du dich bei Männern verlierst, die du wirklich willst
+![](Freebie%20Ebook%20Vorschau.png){fig-align="center" width="500"}
 
-![](){fig-align="center" width="500"}
+## Warum du dich bei Männern verlierst, die du wirklich willst
 
 Warum verlierst du plötzlich dich selbst,
 
