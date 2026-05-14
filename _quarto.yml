@@ -7,6 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: kostenloses-ebook.qmd
+        text: Kostenloses Ebook
+      - href: mini-guide.qmd
+        text: Mini Guide
+      - href: secure-love.qmd
+        text: Sichere Liebe finden
       - about.qmd
 
 format:
@@ -15,7 +21,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
