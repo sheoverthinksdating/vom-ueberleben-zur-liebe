@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+# About me
 
-```{r}
-1 + 1
-```
+Ich schreibe über Bindungsmuster, emotionale Sicherheit und darüber, warum sich Ruhe in Beziehungen manchmal falsch anfühlt.
+
+Nicht weil mit dir etwas falsch ist — sondern weil dein Nervensystem gelernt hat, Chaos mit Liebe zu verwechseln.
