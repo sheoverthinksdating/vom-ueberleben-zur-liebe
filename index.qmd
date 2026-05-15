@@ -1,33 +1,25 @@
-
-
 # Raus aus der Anpassung
 
-Für Frauen,
-die im Dating ständig zu viel fühlen,
-zu viel analysieren
-und sich dabei selbst verlieren.
-
-
+Für Frauen, die im Dating ständig zu viel fühlen, zu viel analysieren und sich dabei selbst verlieren.
 
 ## 💛 Kostenloses Ebook
 
-Warum du dich bei Männern verlierst,
-die du wirklich willst.
+Er antwortet nicht ?
 
 [💛 Kostenlos herunterladen](kostenloses-ebook.qmd){.btn .btn-primary}
 
-
-
 ## ✨ Mini Guide
 
-Wenn er plötzlich still wird.
+Warum du dich bei Männern verlierst, die du wirklich willst.
 
 [✨ Zum Mini Guide](mini-guide.qmd){.btn .btn-primary}
-
-
 
 ## 💭 Bald verfügbar
 
 Warum sichere Liebe sich manchmal langweilig anfühlt.
 
-[💭 Mehr erfahren](sichere-liebe.qmd){.btn .btn-secondary}
+<button class="btn btn-secondary" disabled>
+
+💭 Mehr erfahren
+
+</button>
