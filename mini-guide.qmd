@@ -38,4 +38,13 @@ dich selbst im Dating nicht mehr zu verlassen.
 
 Du bist nicht zu viel. Du hast gelernt, Liebe mit Anpassung zu verwechseln.
 
-<a href="https://payhip.com/b/rOxLZ" class="btn btn-primary"> ✨ Mini Guide für 7€ </a>
+<a href="https://payhip.com/buy?cart_links%5B0%5D=rOxLZ&qty%5BrOxLZ%5D=1&s=1&cart_links%5B%5D=rOxLZ" target="_blank">
+<button style="
+padding:14px 24px;
+border:none;
+border-radius:12px;
+font-size:18px;
+cursor:pointer;">
+✨ Jetzt kaufen für 7€
+</button>
+</a>
