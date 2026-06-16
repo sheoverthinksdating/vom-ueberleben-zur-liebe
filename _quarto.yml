@@ -3,18 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "raus-aus-der-anpassung"
+  title: "Vom Überleben zur Liebe"
   navbar:
     left:
       - href: index.qmd
         text: Home
-         # diese-eine-sache.qmd NICHT hier eintragen = versteckt
-      - href: kostenloses-ebook.qmd
-        text: Kostenloses Ebook
-      - href: mini-guide.qmd
-        text: Mini Guide
-      - href: secure-love.qmd
-        text: Sichere Liebe finden
+      - href: diese-eine-sache.qmd
+        text: Diese eine Sache
       - about.qmd
 format:
   html:
