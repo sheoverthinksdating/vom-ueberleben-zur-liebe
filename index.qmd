@@ -38,14 +38,14 @@ format:
 <div style="border: 1px solid #e8e0d5; border-radius: 10px; padding: 1.8rem; margin-bottom: 2rem; background-color: #fffdf9;">
   <p style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: #aaa; margin-bottom: 0.5rem;">9€ · Sofort-Download</p>
   <h2 style="font-size: 1.2rem; font-weight: bold; margin-bottom: 0.8rem;">
-    Healthy Man Decoder
+    Ist er der Richtige?
   </h2>
   <p style="color: #555; margin-bottom: 1.5rem;">
     5 konkrete Anzeichen · Checkliste · 3 Scripts die du sofort schreiben kannst. Für Frauen, die endlich aufhören wollen zu raten.
   </p>
   <a href="https://vomberlebenzurliebe.mytentary.com/p/TA3NKs"
      style="background-color: #1a1a1a; color: #fff; padding: 0.75rem 1.8rem; border-radius: 6px; text-decoration: none; font-size: 0.95rem; font-family: sans-serif; display: inline-block;">
-    Decoder holen — 9€
+    Jetzt Guide holen — 9€
   </a>
 </div>
 

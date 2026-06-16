@@ -50,6 +50,8 @@ Aber was machst du jetzt mit diesem Wissen?
 
 <ul style="margin: 1.5rem 0; padding-left: 1.2rem;">
 
+![Ist er der Richtige?](images/Ist er der Richtige.png){width="200"}
+
 <li>5 konkrete Anzeichen, dass er gesund ist — auch wenn er sich Zeit lässt</li>
 
 <li>Die schnelle Checkliste: Hak ab und wisse sofort, wo du stehst</li>
@@ -60,7 +62,7 @@ Aber was machst du jetzt mit diesem Wissen?
 
 ::: {style="text-align: center; margin: 3rem 0;"}
 <a href="https://vomberlebenzurliebe.mytentary.com/p/TA3NKs"
-     style="background-color: #1a1a1a; color: #fff; padding: 1rem 2.2rem; border-radius: 6px; text-decoration: none; font-size: 1.05rem; font-family: sans-serif; display: inline-block;"> Healthy Man Decoder holen — 9€ </a>
+     style="background-color: #1a1a1a; color: #fff; padding: 1rem 2.2rem; border-radius: 6px; text-decoration: none; font-size: 1.05rem; font-family: sans-serif; display: inline-block;"> Ist er der Richtige ? - jetzt holen — 9€ </a>
 :::
 
 <p style="text-align: center; font-size: 0.85rem; color: #888; font-family: sans-serif;">
@@ -70,6 +72,8 @@ Einmaliger Kauf · Sofort-Download · Keine Abo-Falle
 </p>
 
 </div>
+
+::::
 
 ::::
 
