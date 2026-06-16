@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: ""
 format:
   html:
     page-layout: article
@@ -8,7 +8,7 @@ format:
 
 # About me
 
-![](images/WhatsApp Image 2026-05-08 at 16.21.53 (1).jpeg){width="844"}
+![](images/WhatsApp Image 2026-05-08 at 16.21.53 (1).jpeg){width="225"}
 
 ```{=html}
 <div style="max-width: 640px; margin: 0 auto; padding: 2rem 1.2rem; font-family: Georgia, serif; color: #1a1a1a; line-height: 1.8; font-size: 1.05rem;">
