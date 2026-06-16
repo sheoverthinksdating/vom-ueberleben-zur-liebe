@@ -46,7 +46,7 @@ Aber was machst du jetzt mit diesem Wissen?
 
 <p>Oder sitzt du gerade da und weißt immer noch nicht, was du als nächstes tun sollst?</p>
 
-<p>Genau dafür habe ich den Healthy Man Decoder erstellt.</p>
+<p>Genau dafür habe ich diesen Guide erstellt.</p>
 
 <ul style="margin: 1.5rem 0; padding-left: 1.2rem;">
 
