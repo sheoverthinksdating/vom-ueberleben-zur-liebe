@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: muster-checkliste.qmd
+        text: Selbst-Check
       - href: diese-eine-sache.qmd
         text: Diese eine Sache
       - about.qmd
@@ -20,4 +22,3 @@ format:
     toc: false
 
 editor: visual
-
